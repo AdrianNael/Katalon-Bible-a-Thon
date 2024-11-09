@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Nama Lengkap_nama_lengkap</name>
+   <tag></tag>
+   <elementGuidId>9ad054a9-e662-454f-b085-c28aed0ba816</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;nama_lengkap&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Masukan Nama Lengkap&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>11addc95-6b46-4f2f-bd58-ecf435fa5598</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>nama_lengkap</value>
+      <webElementGuid>e474aa66-6595-4457-98b1-2f8e8c432258</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukan Nama Lengkap</value>
+      <webElementGuid>5ce1b7d5-ab7a-459b-8c68-803cf3e8f98b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control bg-white border-left-0 border-md</value>
+      <webElementGuid>1cb15398-6f4d-4590-8fe9-fa01e21763a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[1]/div[@class=&quot;container h-100&quot;]/div[@class=&quot;row py-5 mt-2 align-items-center h-100&quot;]/div[@class=&quot;col-md-7 col-lg-6 ml-auto h-100 aos-init aos-animate&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-7 mb-3&quot;]/div[@class=&quot;input-group&quot;]/input[@class=&quot;form-control bg-white border-left-0 border-md&quot;]</value>
+      <webElementGuid>2c4fcedc-7780-4b42-b0df-993ba0152184</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='']</value>
+      <webElementGuid>51b55d3b-750f-4bc8-9539-17d418874118</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>0fc31fb3-b0f5-44fc-8a02-c3e8b3b52e2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'nama_lengkap' and @placeholder = 'Masukan Nama Lengkap']</value>
+      <webElementGuid>0da17ebb-16c7-4232-8a37-3f005bcfff00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

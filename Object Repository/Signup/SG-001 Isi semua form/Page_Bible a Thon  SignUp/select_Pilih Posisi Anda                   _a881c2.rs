@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pilih Posisi Anda                   _a881c2</name>
+   <tag></tag>
+   <elementGuidId>0455e8c6-6bd8-408e-b935-1332497d4316</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#posisi</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='posisi']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#posisi</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>aa818556-a0d8-4ca0-afc0-e2b2ea03eff6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>posisi</value>
+      <webElementGuid>8ff90aef-497f-4678-8811-b13842878de7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>posisi</value>
+      <webElementGuid>8c825058-5377-4f90-82fd-f0fc9375aa65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control custom-select bg-white border-left-0 border-md</value>
+      <webElementGuid>bddc796a-1f0e-434c-8180-3f2adf09afb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    Pilih Posisi Anda
+                                    Peserta
+                                    Pembimbing
+                                </value>
+      <webElementGuid>fe99bc72-1d53-4b91-96cd-5ff2d5b9d19b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;posisi&quot;)</value>
+      <webElementGuid>b968d2d4-e391-4108-9ca7-edafd03131c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='posisi']</value>
+      <webElementGuid>2c28eaf1-fd76-414e-b206-7b4994883463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::select[5]</value>
+      <webElementGuid>daed9c19-f303-4ee5-984f-b71f882bd1ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::select[5]</value>
+      <webElementGuid>e2e59f4c-a762-4926-aebd-95b3a4d77ed2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Peserta'])[1]/preceding::select[1]</value>
+      <webElementGuid>32eb7fcd-f699-4daa-aca6-58b626b919f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Tambah Peserta'])[1]/preceding::select[1]</value>
+      <webElementGuid>53860074-0994-4448-90f3-4fe47966812f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/select</value>
+      <webElementGuid>f7c3da50-d07d-4083-b402-647b339fe541</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'posisi' and @name = 'posisi' and (text() = '
+                                    Pilih Posisi Anda
+                                    Peserta
+                                    Pembimbing
+                                ' or . = '
+                                    Pilih Posisi Anda
+                                    Peserta
+                                    Pembimbing
+                                ')]</value>
+      <webElementGuid>34fbf4b8-5933-48ed-b8e5-e11a80980224</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
